@@ -1,6 +1,0 @@
-x = int(input('Введи число: '))
-
-if x > 999 and x <= 9999:
-    print('YES')
-else:
-    print('NO')
